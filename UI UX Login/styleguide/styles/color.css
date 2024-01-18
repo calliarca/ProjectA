@@ -1,0 +1,324 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.color-kmr {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.color-kmr .section-hh6 {
+  box-sizing: border-box;
+  padding: 14.4rem 3.2rem;
+  width: 100%;
+  height: 93.9rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.color-kmr .section-hh6 .mode-r4C {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.color-kmr .section-hh6 .mode-r4C .theme-light-QrQ {
+  margin-bottom: 3.9rem;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e {
+  width: 109.8rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .auto-group-omkt-u2U {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  height: 25rem;
+  display: flex;
+  align-items: center;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .auto-group-omkt-u2U .gridcard-F6L {
+  margin-right: 1.2rem;
+  width: 54.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .auto-group-omkt-u2U .gridcard-F6L .classitem-n6G {
+  margin-bottom: 1.6rem;
+  width: 14.2rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .auto-group-omkt-u2U .gridcard-F6L .swatch-TTJ {
+  width: 100%;
+  height: 20.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .auto-group-omkt-u2U .gridcard-ygY {
+  width: 54.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .auto-group-omkt-u2U .gridcard-ygY .classitem-8pL {
+  margin-bottom: 1.6rem;
+  width: 7.1rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .auto-group-omkt-u2U .gridcard-ygY .swatch-292 {
+  width: 100%;
+  height: 20.2rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .gridcard-gUU {
+  width: 54.3rem;
+  overflow: hidden;
+  position: relative;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .gridcard-gUU .classitem-RS4 {
+  margin-bottom: 1.6rem;
+  width: 9.7rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.color-kmr .section-hh6 .mode-r4C .grid-w5e .gridcard-gUU .swatch-iRA {
+  width: 100%;
+  height: 20.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+}
+.color-kmr .section-qEt {
+  box-sizing: border-box;
+  padding: 14.4rem 3.2rem;
+  width: 100%;
+  height: 93.9rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #101211;
+  flex-shrink: 0;
+}
+.color-kmr .section-qEt .mode-AY4 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.color-kmr .section-qEt .mode-AY4 .theme-dark-j5N {
+  margin-bottom: 3.9rem;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk {
+  width: 109.8rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .auto-group-7u38-QhJ {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  height: 25rem;
+  display: flex;
+  align-items: center;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .auto-group-7u38-QhJ .gridcard-9Pz {
+  margin-right: 1.2rem;
+  width: 54.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .auto-group-7u38-QhJ .gridcard-9Pz .classitem-gui {
+  margin-bottom: 1.6rem;
+  width: 14.2rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .auto-group-7u38-QhJ .gridcard-9Pz .swatch-mwA {
+  width: 100%;
+  height: 20.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .auto-group-7u38-QhJ .gridcard-W84 {
+  width: 54.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .auto-group-7u38-QhJ .gridcard-W84 .classitem-TJC {
+  margin-bottom: 1.6rem;
+  width: 7.1rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .auto-group-7u38-QhJ .gridcard-W84 .swatch-kYC {
+  width: 100%;
+  height: 20.2rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .gridcard-zhS {
+  width: 54.3rem;
+  overflow: hidden;
+  position: relative;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .gridcard-zhS .classitem-Yyr {
+  margin-bottom: 1.6rem;
+  width: 9.7rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.color-kmr .section-qEt .mode-AY4 .grid-3rk .gridcard-zhS .swatch-qxx {
+  width: 100%;
+  height: 20.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+}

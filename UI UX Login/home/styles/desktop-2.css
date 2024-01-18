@@ -1,0 +1,306 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-sbz {
+  box-sizing: border-box;
+  padding: 9.1rem 23.2rem 3.2rem 25.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-2-sbz .auto-group-sakq-za8 {
+  margin-bottom: 13rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-e38j-5zt {
+  margin: 0rem 9.4rem 5.5rem 0rem;
+  width: 48.2rem;
+  height: 63.6rem;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-e38j-5zt .rectangle-833-CJp {
+  width: 32.4rem;
+  height: 62.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J {
+  margin: 0rem 1.7rem 2.8rem 0rem;
+  box-sizing: border-box;
+  padding: 2.5rem 3.4rem 5.8rem 3.6rem;
+  width: 35.9rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.5);
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .masuk-spG {
+  margin: 0rem 0.1rem 3.4rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-MDe {
+  margin: 0rem 0.9rem 5.3rem 0.7rem;
+  width: calc(100% - 1.6rem);
+  height: 8.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-MDe .shape-TXa {
+  width: 3.424rem;
+  height: 4.4415rem;
+  position: absolute;
+  left: 0.6713rem;
+  top: 2.6472rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-MDe .avatar-BCg {
+  width: 4.7738rem;
+  height: 6.4604rem;
+  position: absolute;
+  left: 0;
+  top: 1.8396rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-MDe .nama-pengguna-bQp {
+  width: 12.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.55rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-MDe .featured-card-1-VFJ {
+  width: 22.5262rem;
+  height: 4.3406rem;
+  position: absolute;
+  left: 4.7738rem;
+  top: 2.8491rem;
+  overflow: hidden;
+  box-sizing: border-box;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.5);
+  border-radius: 2rem;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-N4C {
+  margin: 0rem 0.9rem 5.2rem 0.7rem;
+  width: calc(100% - 1.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-N4C .auto-group-1p7c-f3J {
+  margin-right: 0rem;
+  width: 4.7738rem;
+  height: 6.4604rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-N4C .auto-group-1p7c-f3J .shape-PV6 {
+  width: 3.424rem;
+  height: 4.4415rem;
+  position: absolute;
+  left: 0.6713rem;
+  top: 0.8075rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-N4C .auto-group-1p7c-f3J .avatar-HKa {
+  width: 4.7738rem;
+  height: 6.4604rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-N4C .auto-group-xvte-AuA {
+  margin-bottom: 1.1104rem;
+  width: 22.5262rem;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-N4C .auto-group-xvte-AuA .kata-sandi-soa {
+  margin-bottom: 0.8491rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .username-N4C .auto-group-xvte-AuA .featured-card-1-xKE {
+  width: 100%;
+  height: 4.3406rem;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.5);
+  border-radius: 2rem;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .auto-group-nlv2-pcL {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .auto-group-nlv2-pcL .line-1-vvG {
+  margin: 0.3rem 3.35rem 0rem 0rem;
+  width: 9.2rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .auto-group-nlv2-pcL .atau-1B2 {
+  margin-right: 3.45rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .auto-group-nlv2-pcL .line-2-5At {
+  margin-top: 0.1rem;
+  width: 9.2rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .popular-card-2-p5J .lupa-kata-sandi-zoe {
+  margin-right: 0.2rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .dapatkan-aplikasi-drc {
+  margin: 0rem 0rem 0.9rem 0.5rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-sakq-za8 .auto-group-cvpc-UGL .image-1-Xwz {
+  margin-left: 0.5rem;
+  width: 37.1rem;
+  height: 8.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-jwv4-2tk {
+  margin: 0rem 26.9rem 3rem 24.6rem;
+  width: calc(100% - 51.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-jwv4-2tk .home-LPe {
+  margin-right: 8.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-jwv4-2tk .blog-44k {
+  margin-right: 6.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-jwv4-2tk .contact-aYt {
+  margin-right: 5.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .auto-group-jwv4-2tk .about-VQx {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-sbz .findmy-by-macipir-inc-pTE {
+  margin-right: 2.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,246 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.components-QDS {
+  width: 100%;
+  height: 88.2rem;
+  overflow: hidden;
+  position: relative;
+}
+.components-QDS .section-8v8 {
+  box-sizing: border-box;
+  padding: 14.4rem 3.2rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.components-QDS .section-8v8 .components-rr8 {
+  margin-bottom: 7.9rem;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .buttons-xuA {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi {
+  width: 100%;
+  row-gap: 1.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonarrowsmall-RGx {
+  box-sizing: border-box;
+  padding: 2.4rem 104.8rem 2.4rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonarrowsmall-RGx .styleprimary-statedefault-8BN {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonarrowsmall-RGx .styleprimary-statehovered-qba {
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonarrowsmall-RGx .stylesecondary-statedefault-mVE {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonarrowsmall-RGx .stylesecondary-statehovered-JEG {
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttondefault-Bor {
+  box-sizing: border-box;
+  padding: 2.4rem 63.2rem 2.4rem 2.4rem;
+  width: 100%;
+  height: 10.1rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttondefault-Bor .styleprimary-statedefault-VpY {
+  width: 16.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ff3d00;
+  box-sizing: border-box;
+  background-color: #ff3d00;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttondefault-Bor .styleprimary-statehovered-mXA {
+  width: 16.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #101211;
+  box-sizing: border-box;
+  background-color: #101211;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttondefault-Bor .stylesecondary-statedefault-EQk {
+  width: 16.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ff3d00;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttondefault-Bor .stylesecondary-statehovered-uWt {
+  width: 16.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ff3d00;
+  box-sizing: border-box;
+  background-color: #ff3d00;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonplaysmall-xVA {
+  box-sizing: border-box;
+  padding: 2.4rem 95.2rem 2.4rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonplaysmall-xVA .styleprimary-statedefault-H1e {
+  width: 8.8rem;
+  height: 8.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonplaysmall-xVA .styleprimary-statehovered-c3v {
+  width: 8.8rem;
+  height: 8.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonplaysmall-xVA .stylesecondary-statedefault-wM6 {
+  width: 8.8rem;
+  height: 8.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-QDS .section-8v8 .frame-1-UMi .buttonplaysmall-xVA .stylesecondary-statehovered-rix {
+  width: 8.8rem;
+  height: 8.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}

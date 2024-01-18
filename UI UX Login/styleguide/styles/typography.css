@@ -1,0 +1,1376 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.typography-wGY {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.typography-wGY .section-UnG {
+  box-sizing: border-box;
+  padding: 14.4rem 3.2rem 4.8rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typography-Qvp {
+  margin-bottom: 7.9rem;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .font-styles-iRi {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 4.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-met {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-met .classlist-j5v {
+  margin: 0rem 125.9rem 1.6rem 0rem;
+  width: calc(100% - 125.9rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-met .classlist-j5v .classitem-EoN {
+  margin-right: 0.8rem;
+  width: 6.6rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-met .classlist-j5v .display-iyS {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-met .heading-Tw2 {
+  font-size: 16rem;
+  font-weight: 900;
+  line-height: 0.9;
+  letter-spacing: -0.16rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-AqS {
+  box-sizing: border-box;
+  padding-bottom: 3.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-AqS .classlist-KiL {
+  margin: 0rem 129.1rem 1.6rem 0rem;
+  width: calc(100% - 129.1rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-AqS .classlist-KiL .classitem-TJk {
+  margin-right: 0.8rem;
+  width: 6rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-AqS .classlist-KiL .h1-XpQ {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-AqS .heading-stG {
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-zCC {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-zCC .classlist-YUc {
+  margin: 0rem 128.7rem 1.6rem 0rem;
+  width: calc(100% - 128.7rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-zCC .classlist-YUc .classitem-TrU {
+  margin-right: 0.8rem;
+  width: 6.4rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-zCC .classlist-YUc .h2-AF6 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-zCC .heading-uCg {
+  font-size: 6rem;
+  font-weight: 900;
+  line-height: 0.9;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-paY {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-paY .classlist-n1a {
+  margin: 0rem 128.7rem 1.6rem 0rem;
+  width: calc(100% - 128.7rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-paY .classlist-n1a .classitem-Vwa {
+  margin-right: 0.8rem;
+  width: 6.4rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-paY .classlist-n1a .h3-ohN {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-paY .heading-x4U {
+  font-size: 5.2rem;
+  font-weight: 900;
+  line-height: 0.8999999853;
+  letter-spacing: -0.052rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-GL4 {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-GL4 .classlist-oat {
+  margin: 0rem 128.7rem 1.6rem 0rem;
+  width: calc(100% - 128.7rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-GL4 .classlist-oat .classitem-Y2g {
+  margin-right: 0.8rem;
+  width: 6.4rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-GL4 .classlist-oat .h4-EgC {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-GL4 .heading-BbS {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.9;
+  letter-spacing: -0.04rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-h3z {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-h3z .classlist-S1a {
+  margin: 0rem 128.7rem 1.6rem 0rem;
+  width: calc(100% - 128.7rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-h3z .classlist-S1a .classitem-ACU {
+  margin-right: 0.8rem;
+  width: 6.4rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-h3z .classlist-S1a .h5-s6t {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-h3z .heading-1it {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 0.8999999762;
+  letter-spacing: -0.032rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-KzU {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-KzU .classlist-tGt {
+  margin: 0rem 128.7rem 1.6rem 0rem;
+  width: calc(100% - 128.7rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-KzU .classlist-tGt .classitem-pRS {
+  margin-right: 0.8rem;
+  width: 6.4rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-KzU .classlist-tGt .h6-8BE {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-KzU .heading-sPi {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-BvC {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-BvC .classlist-kCc {
+  margin: 0rem 121.4rem 1.6rem 0rem;
+  width: calc(100% - 121.4rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-BvC .classlist-kCc .classitem-5Et {
+  margin-right: 0.8rem;
+  width: 6.2rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-BvC .classlist-kCc .paragraph-main-mtQ {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-BvC .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-iHr {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-ZJU {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-ZJU .classlist-hvU {
+  margin: 0rem 120.2rem 1.6rem 0rem;
+  width: calc(100% - 120.2rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-ZJU .classlist-hvU .classitem-dZE {
+  margin-right: 0.8rem;
+  width: 7rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-ZJU .classlist-hvU .paragraph-large-Xec {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-ZJU .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-g1i {
+  max-width: 137.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-vRr {
+  box-sizing: border-box;
+  padding-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(16, 18, 17, 0.200000003);
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-vRr .classlist-sbz {
+  margin: 0rem 119.6rem 1.6rem 0rem;
+  width: calc(100% - 119.6rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-vRr .classlist-sbz .classitem-zRi {
+  margin-right: 0.8rem;
+  width: 7.5rem;
+  height: 100%;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-vRr .classlist-sbz .paragraph-small-gJY {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-UnG .typelist-doa .typeitem-vRr .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-DZN {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 {
+  box-sizing: border-box;
+  padding: 4.8rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 .font-family-Cw6 {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 .grid-jRE {
+  width: 100%;
+  height: 19.3rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 .grid-jRE .gridcard-gLU {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem 4.5rem 5.9rem 3.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 .grid-jRE .gridcard-gLU .classitem-zc4 {
+  margin-bottom: 1.6rem;
+  width: 16.4rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 .grid-jRE .gridcard-gLU .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-VHv {
+  max-width: 60.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 .grid-jRE .gridcard-LpL {
+  box-sizing: border-box;
+  padding: 3.2rem 3.9rem 5.9rem 3.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 .grid-jRE .gridcard-LpL .classitem-UQk {
+  margin-bottom: 1.6rem;
+  width: 19rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-4K6 .grid-jRE .gridcard-LpL .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-mPr {
+  max-width: 61.1rem;
+  font-size: 1.8rem;
+  font-weight: 900;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-Ck4 {
+  box-sizing: border-box;
+  padding: 4.8rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Ck4 .font-weight-MN4 {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Ck4 .grid-srC {
+  height: 13.9rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-Dv4 {
+  box-sizing: border-box;
+  padding: 3.2rem;
+  width: 40.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-Dv4 .classitem-NHA {
+  margin-bottom: 1.6rem;
+  width: 17.5rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-Dv4 .lorem-ipsum-sUp {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-yGx {
+  box-sizing: border-box;
+  padding: 3.2rem;
+  width: 40.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-yGx .classitem-7tx {
+  margin-bottom: 1.6rem;
+  width: 15.2rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-yGx .lorem-ipsum-CfW {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #101211;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-WRJ {
+  box-sizing: border-box;
+  padding: 3.2rem;
+  width: 40.4rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-WRJ .classitem-enQ {
+  margin-bottom: 1.6rem;
+  width: 18.5rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.typography-wGY .section-Ck4 .grid-srC .gridcard-WRJ .lorem-ipsum-LfE {
+  font-size: 2.2rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.022rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.typography-wGY .section-Quz {
+  box-sizing: border-box;
+  padding: 4.8rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .line-height-ZH6 {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn {
+  margin-right: 14rem;
+  width: calc(100% - 14rem);
+  height: 53.7rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-ae86-D6k {
+  width: 40.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-ae86-D6k .gridcard-Yui {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem 3.1rem 5.9rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-ae86-D6k .gridcard-Yui .classitem-gFE {
+  margin-bottom: 1.6rem;
+  width: 8.6rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-ae86-D6k .gridcard-Yui .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-Aw6 {
+  max-width: 34.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-ae86-D6k .gridcard-Q4k {
+  box-sizing: border-box;
+  padding: 3.2rem 3.1rem 4.6rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-ae86-D6k .gridcard-Q4k .classitem-XfA {
+  margin-bottom: 1.6rem;
+  width: 7.9rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-ae86-D6k .gridcard-Q4k .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-cgc {
+  max-width: 34.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.8999999364;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-jvfp-qpG {
+  box-sizing: border-box;
+  padding-left: 1.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-jvfp-qpG .gridcard-zSG {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem 3.1rem 8rem 3.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-jvfp-qpG .gridcard-zSG .classitem-v52 {
+  margin-bottom: 1.6rem;
+  width: 8.6rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-jvfp-qpG .gridcard-zSG .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-Qkt {
+  max-width: 34.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2999999788;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-jvfp-qpG .gridcard-Ejv {
+  box-sizing: border-box;
+  padding: 3.2rem 3.1rem 10.2rem 3.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-jvfp-qpG .gridcard-Ejv .classitem-mUx {
+  margin-bottom: 1.6rem;
+  width: 8.2rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Quz .grid-sHn .auto-group-jvfp-qpG .gridcard-Ejv .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-sH6 {
+  max-width: 34.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 {
+  box-sizing: border-box;
+  padding: 4.8rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 .letter-spacing-bcQ {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 .grid-7Kr {
+  width: 100%;
+  height: 22rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 .grid-7Kr .gridcard-Tec {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem 4.5rem 5.9rem 3.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 .grid-7Kr .gridcard-Tec .classitem-P2U {
+  margin-bottom: 1.6rem;
+  width: 6.8rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 .grid-7Kr .gridcard-Tec .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-5fz {
+  max-width: 60.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 .grid-7Kr .gridcard-gQt {
+  box-sizing: border-box;
+  padding: 3.2rem 3.9rem 5.9rem 3.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 .grid-7Kr .gridcard-gQt .classitem-oVW {
+  margin-bottom: 1.6rem;
+  width: 7.1rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-Tm6 .grid-7Kr .gridcard-gQt .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-h56 {
+  max-width: 61.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.018rem;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t {
+  box-sizing: border-box;
+  padding: 4.8rem 3.2rem 14.4rem 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .text-transform-pov {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ {
+  margin-right: 14rem;
+  width: calc(100% - 14rem);
+  height: 34.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-pmp4-fJk {
+  width: 40.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-pmp4-fJk .gridcard-QXE {
+  margin-bottom: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-pmp4-fJk .gridcard-QXE .classitem-x2x {
+  margin-bottom: 1.6rem;
+  width: 8.1rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-pmp4-fJk .gridcard-QXE .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-qcY {
+  max-width: 30.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-pmp4-fJk .gridcard-vdz {
+  box-sizing: border-box;
+  padding: 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-pmp4-fJk .gridcard-vdz .classitem-g7N {
+  margin-bottom: 1.6rem;
+  width: 12.8rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-pmp4-fJk .gridcard-vdz .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ksv {
+  max-width: 30rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: lowercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-sqz8-dgp {
+  box-sizing: border-box;
+  padding-left: 1.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-sqz8-dgp .gridcard-ac4 {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 3.2rem;
+  width: 40.4rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-sqz8-dgp .gridcard-ac4 .classitem-X1W {
+  margin-bottom: 1.6rem;
+  width: 13.2rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-sqz8-dgp .gridcard-ac4 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-Qqz {
+  max-width: 23.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-sqz8-dgp .gridcard-6yi {
+  box-sizing: border-box;
+  padding: 3.2rem 6.2rem 3.2rem 3.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem rgba(16, 18, 17, 0.200000003);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-sqz8-dgp .gridcard-6yi .classitem-3PA {
+  margin-bottom: 1.6rem;
+  width: 12.1rem;
+  height: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff3d00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.typography-wGY .section-J4t .grid-ieQ .auto-group-sqz8-dgp .gridcard-6yi .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-8vQ {
+  max-width: 31rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
