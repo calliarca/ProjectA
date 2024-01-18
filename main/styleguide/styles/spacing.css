@@ -1,0 +1,977 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.spacing-Lxt {
+  width: 100%;
+  height: 176.2rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ {
+  box-sizing: border-box;
+  padding: 14.4rem 3.2rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #101211;
+}
+.spacing-Lxt .section-uFJ .spacing-eTn {
+  margin-bottom: 7.9rem;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .all-values-ZKr {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 1.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Bs2 {
+  box-sizing: border-box;
+  padding-right: 124.3rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Bs2 .value-81a {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Bs2 .space-NAp {
+  width: 0.1rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Bs2 .space-NAp .spaceinner-iEg {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-QtC {
+  box-sizing: border-box;
+  padding-right: 124.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-QtC .value-kx4 {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-QtC .space-28t {
+  box-sizing: border-box;
+  padding-left: 0.2rem;
+  width: 0.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-QtC .space-28t .spaceinner-xYL {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-GJ8 {
+  box-sizing: border-box;
+  padding-right: 123.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-GJ8 .value-QfE {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-GJ8 .space-62G {
+  box-sizing: border-box;
+  padding-left: 0.4rem;
+  width: 0.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-GJ8 .space-62G .spaceinner-qVe {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Yex {
+  box-sizing: border-box;
+  padding-right: 123.5rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Yex .value-6Ra {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Yex .space-xTn {
+  box-sizing: border-box;
+  padding-left: 0.8rem;
+  width: 0.9rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Yex .space-xTn .spaceinner-tsE {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-ojJ {
+  box-sizing: border-box;
+  padding-right: 123.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-ojJ .value-ZTa {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-ojJ .space-2c4 {
+  box-sizing: border-box;
+  padding-left: 1.2rem;
+  width: 1.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-ojJ .space-2c4 .spaceinner-Nvp {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-668 {
+  box-sizing: border-box;
+  padding-right: 122.7rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-668 .value-ECL {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-668 .space-uZN {
+  box-sizing: border-box;
+  padding-left: 1.6rem;
+  width: 1.7rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-668 .space-uZN .spaceinner-TKz {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-61a {
+  box-sizing: border-box;
+  padding-right: 121.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-61a .value-ENg {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-61a .space-W5J {
+  box-sizing: border-box;
+  padding-left: 2.4rem;
+  width: 2.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-61a .space-W5J .spaceinner-F2t {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Mbi {
+  box-sizing: border-box;
+  padding-right: 121.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Mbi .value-udE {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Mbi .space-BKr {
+  box-sizing: border-box;
+  padding-left: 3.2rem;
+  width: 3.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Mbi .space-BKr .spaceinner-8F6 {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-SWg {
+  box-sizing: border-box;
+  padding-right: 119.5rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-SWg .value-CEx {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-SWg .space-fuE {
+  box-sizing: border-box;
+  padding-left: 4.8rem;
+  width: 4.9rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-SWg .space-fuE .spaceinner-R7i {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-XAk {
+  box-sizing: border-box;
+  padding-right: 117.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-XAk .value-4wN {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-XAk .space-XKA {
+  box-sizing: border-box;
+  padding-left: 6.4rem;
+  width: 6.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-XAk .space-XKA .spaceinner-fRN {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-aHS {
+  box-sizing: border-box;
+  padding-right: 116.3rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-aHS .value-7oA {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-aHS .space-zMA {
+  box-sizing: border-box;
+  padding-left: 8rem;
+  width: 8.1rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-aHS .space-zMA .spaceinner-jZe {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-r8U {
+  box-sizing: border-box;
+  padding-right: 114.7rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-r8U .value-brk {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-r8U .space-HDn {
+  box-sizing: border-box;
+  padding-left: 9.6rem;
+  width: 9.7rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-r8U .space-HDn .spaceinner-oC8 {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-JPn {
+  box-sizing: border-box;
+  padding-right: 113.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-JPn .value-rAQ {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-JPn .space-KZn {
+  box-sizing: border-box;
+  padding-left: 11.2rem;
+  width: 11.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-JPn .space-KZn .spaceinner-4nG {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Brt {
+  box-sizing: border-box;
+  padding-right: 14.5rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Brt .value-LUt {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Brt .space-QzY {
+  box-sizing: border-box;
+  padding-left: 109.8rem;
+  width: 109.9rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Brt .space-QzY .spaceinner-Mun {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-ffa {
+  box-sizing: border-box;
+  padding-right: 109.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-ffa .value-cap {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-ffa .space-5jJ {
+  box-sizing: border-box;
+  padding-left: 14.4rem;
+  width: 14.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-ffa .space-5jJ .spaceinner-dVv {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-kKe {
+  box-sizing: border-box;
+  padding-right: 108.3rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-kKe .value-6PW {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-kKe .space-yTJ {
+  box-sizing: border-box;
+  padding-left: 16rem;
+  width: 16.1rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-kKe .space-yTJ .spaceinner-Kn4 {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Eu2 {
+  box-sizing: border-box;
+  padding-right: 105.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Eu2 .value-PX2 {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Eu2 .space-gFE {
+  box-sizing: border-box;
+  padding-left: 19.2rem;
+  width: 19.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-Eu2 .space-gFE .spaceinner-2Zz {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-XWk {
+  box-sizing: border-box;
+  padding-right: 101.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-XWk .value-g8k {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-XWk .space-9HE {
+  box-sizing: border-box;
+  padding-left: 22.4rem;
+  width: 22.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-XWk .space-9HE .spaceinner-h3r {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-osa {
+  box-sizing: border-box;
+  padding-right: 98.7rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-osa .value-knp {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-osa .space-RPA {
+  box-sizing: border-box;
+  padding-left: 25.6rem;
+  width: 25.7rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-Lxt .section-uFJ .list-Uhi .item-osa .space-RPA .spaceinner-mT2 {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
