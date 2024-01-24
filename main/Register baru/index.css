@@ -1,0 +1,1040 @@
+.tampilan-daftar-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.tampilan-daftar-tampilan-daftar {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tampilan-daftar-text {
+  top: 679px;
+  left: 975px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-footer {
+  top: 912px;
+  left: 502px;
+  width: 480px;
+  height: 93px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-text02 {
+  top: 55px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 299px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-text06 {
+  left: 139px;
+  color: rgba(0, 0, 0, 1);
+  width: 55px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-text08 {
+  left: 250px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-text10 {
+  left: 380px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-rectangle833 {
+  top: 91px;
+  left: 266px;
+  width: 324px;
+  height: 622px;
+  position: absolute;
+}
+.tampilan-daftar-login {
+  top: 91px;
+  left: 712px;
+  width: 647px;
+  height: 555px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.tampilan-daftar-group1 {
+  top: 436.32635498046875px;
+  left: 18px;
+  width: 615px;
+  height: 73.53416442871094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-line1 {
+  top: 13.313286781311035px;
+  left: 0px;
+  width: 196px;
+  height: 1px;
+  position: absolute;
+}
+.tampilan-daftar-line2 {
+  top: 12.758660316467285px;
+  left: 419.221435546875px;
+  width: 196px;
+  height: 1px;
+  position: absolute;
+}
+.tampilan-daftar-text12 {
+  left: 221.31488037109375px;
+  color: rgba(0, 0, 0, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-text14 {
+  top: 54.673583984375px;
+  left: 181px;
+  color: rgba(0, 0, 0, 1);
+  width: 257px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-frame-login {
+  top: 0px;
+  left: 0px;
+  width: 647px;
+  height: 555px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 4px 3px 5px 0px rgba(58, 24, 193, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+}
+.tampilan-daftar-nama-lengkap {
+  top: 90px;
+  left: 31px;
+  width: 277px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-daftar-username {
+  top: 3px;
+  left: 34px;
+  width: 243.5px;
+  height: 65.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-text16 {
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-rectangle835 {
+  top: 25.5px;
+  left: 24.500001907348633px;
+  width: 219px;
+  height: 40px;
+  position: absolute;
+}
+
+.tampilan-daftar-inputnama {
+  width: 80%;
+  height: 25%;
+  position: absolute;
+  top: 38px;
+  left: 35px;
+  border: none;
+  background-color: transparent;
+}
+.tampilan-daftar-text18 {
+  top: 36px;
+  color: rgba(0, 0, 0, 0.25);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-user03c {
+  top: 24px;
+  left: 0px;
+  width: 45px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(0deg, rgba(255, 201, 179, 1) 0%, rgba(255, 210, 194, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 100px;
+}
+.tampilan-daftar-user03c1 {
+  top: 5.116974353790283px;
+  left: 4.957797050476074px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-group7 {
+  top: 0px;
+  left: 0px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-combined-shape {
+  top: 0px;
+  left: 0.9239952564239502px;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+}
+.tampilan-daftar-path4 {
+  top: 1.4036145210266113px;
+  left: 10.729035377502441px;
+  width: 5px;
+  height: 12px;
+  position: absolute;
+}
+.tampilan-daftar-group6 {
+  top: 7.523029804229736px;
+  left: 11.011275291442871px;
+  width: 15.119829177856445px;
+  height: 25.462188720703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-mask {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 25px;
+  position: absolute;
+}
+.tampilan-daftar-group61 {
+  top: 13.42335033416748px;
+  left: 4.962636947631836px;
+  width: 5.438743591308594px;
+  height: 4.015226364135742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-path2 {
+  top: 0px;
+  left: 0.12536318600177765px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.tampilan-daftar-combined-shape01 {
+  top: 27.523025512695312px;
+  left: 2.0922017097473145px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-combined-shape02 {
+  top: 0px;
+  left: 0px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-mask1 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 16px;
+  position: absolute;
+}
+.tampilan-daftar-login1 {
+  top: 173px;
+  left: 31px;
+  width: 277px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-daftar-username1 {
+  top: 3px;
+  left: 34px;
+  width: 243.5px;
+  height: 65.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-text20 {
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-rectangle8351 {
+  top: 25.5px;
+  left: 24.500001907348633px;
+  width: 219px;
+  height: 40px;
+  position: absolute;
+}
+.tampilan-daftar-inputemail {
+  top: 38px;
+  left: 35px;
+  width: 80%;
+  height: 25%;
+  position: absolute;
+}
+.tampilan-daftar-text22 {
+  top: 36px;
+  color: rgba(0, 0, 0, 0.25);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-user03c2 {
+  top: 24px;
+  left: 0px;
+  width: 45px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(0deg, rgba(255, 201, 179, 1) 0%, rgba(255, 210, 194, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 100px;
+}
+.tampilan-daftar-user03c3 {
+  top: 5.116974353790283px;
+  left: 4.957797050476074px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-group71 {
+  top: 0px;
+  left: 0px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-combined-shape03 {
+  top: 0px;
+  left: 0.9239952564239502px;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+}
+.tampilan-daftar-path41 {
+  top: 1.4036145210266113px;
+  left: 10.729035377502441px;
+  width: 5px;
+  height: 12px;
+  position: absolute;
+}
+.tampilan-daftar-group62 {
+  top: 7.523029804229736px;
+  left: 11.011275291442871px;
+  width: 15.119829177856445px;
+  height: 25.462188720703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-mask2 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 25px;
+  position: absolute;
+}
+.tampilan-daftar-group63 {
+  top: 13.42335033416748px;
+  left: 4.962636947631836px;
+  width: 5.438743591308594px;
+  height: 4.015226364135742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-path21 {
+  top: 0px;
+  left: 0.12536318600177765px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.tampilan-daftar-combined-shape04 {
+  top: 27.523025512695312px;
+  left: 2.0922017097473145px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-combined-shape05 {
+  top: 0px;
+  left: 0px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-mask3 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 16px;
+  position: absolute;
+}
+.tampilan-daftar-kata-sandi {
+  top: 174px;
+  left: 355px;
+  width: 277px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-daftar-username2 {
+  top: 3px;
+  left: 34px;
+  width: 243.5px;
+  height: 65.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-text24 {
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-rectangle8352 {
+  top: 25.5px;
+  left: 24.500001907348633px;
+  width: 219px;
+  height: 40px;
+  position: absolute;
+}
+.tampilan-daftar-inputsandi {
+  width: 80%;
+  height: 25%;
+  position: absolute;
+  top: 38px;
+  left: 35px;
+  border: none;
+  background-color: transparent;
+}
+.tampilan-daftar-text26 {
+  top: 36px;
+  color: rgba(0, 0, 0, 0.25);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-user03c4 {
+  top: 24px;
+  left: 0px;
+  width: 45px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(0deg, rgba(255, 201, 179, 1) 0%, rgba(255, 210, 194, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 100px;
+}
+.tampilan-daftar-user03c5 {
+  top: 5.116974353790283px;
+  left: 4.957797050476074px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-group72 {
+  top: 0px;
+  left: 0px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-combined-shape06 {
+  top: 0px;
+  left: 0.9239952564239502px;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+}
+.tampilan-daftar-path42 {
+  top: 1.4036145210266113px;
+  left: 10.729035377502441px;
+  width: 5px;
+  height: 12px;
+  position: absolute;
+}
+.tampilan-daftar-group64 {
+  top: 7.523029804229736px;
+  left: 11.011275291442871px;
+  width: 15.119829177856445px;
+  height: 25.462188720703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-mask4 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 25px;
+  position: absolute;
+}
+.tampilan-daftar-group65 {
+  top: 13.42335033416748px;
+  left: 4.962636947631836px;
+  width: 5.438743591308594px;
+  height: 4.015226364135742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-path22 {
+  top: 0px;
+  left: 0.12536318600177765px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.tampilan-daftar-combined-shape07 {
+  top: 27.523025512695312px;
+  left: 2.0922017097473145px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-combined-shape08 {
+  top: 0px;
+  left: 0px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-mask5 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 16px;
+  position: absolute;
+}
+.tampilan-daftar-ulangi-kata-sandi {
+  top: 90px;
+  left: 348px;
+  width: 277px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-daftar-username3 {
+  top: 3px;
+  left: 34px;
+  width: 243.5px;
+  height: 65.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-text28 {
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-rectangle8353 {
+  top: 25.5px;
+  left: 24.500001907348633px;
+  width: 219px;
+  height: 40px;
+  position: absolute;
+}
+.tampilan-daftar-inputulangi {
+  top: 38px;
+  left: 35px;
+  width: 80%;
+  height: 25%;
+  position: absolute;
+}
+.tampilan-daftar-text30 {
+  top: 36px;
+  color: rgba(0, 0, 0, 0.25);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-user03c6 {
+  top: 24px;
+  left: 0px;
+  width: 45px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(0deg, rgba(255, 201, 179, 1) 0%, rgba(255, 210, 194, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 100px;
+}
+.tampilan-daftar-user03c7 {
+  top: 5.116974353790283px;
+  left: 4.957797050476074px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-group73 {
+  top: 0px;
+  left: 0px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-combined-shape09 {
+  top: 0px;
+  left: 0.9239952564239502px;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+}
+.tampilan-daftar-path43 {
+  top: 1.4036145210266113px;
+  left: 10.729035377502441px;
+  width: 5px;
+  height: 12px;
+  position: absolute;
+}
+.tampilan-daftar-group66 {
+  top: 7.523029804229736px;
+  left: 11.011275291442871px;
+  width: 15.119829177856445px;
+  height: 25.462188720703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-mask6 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 25px;
+  position: absolute;
+}
+.tampilan-daftar-group67 {
+  top: 13.42335033416748px;
+  left: 4.962636947631836px;
+  width: 5.438743591308594px;
+  height: 4.015226364135742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-path23 {
+  top: 0px;
+  left: 0.12536318600177765px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.tampilan-daftar-combined-shape10 {
+  top: 27.523025512695312px;
+  left: 2.0922017097473145px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-combined-shape11 {
+  top: 0px;
+  left: 0px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-daftar-mask7 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 16px;
+  position: absolute;
+}
+.tampilan-daftar-group11 {
+  top: 278px;
+  left: 267px;
+  width: 121px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-daftar-ellipse1 {
+  top: 4px;
+  left: 16.0000057220459px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tampilan-daftar-text32 {
+  top: -2px;
+  left: 4px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  border:none;
+}
+.tampilan-daftar-group2017 {
+  top: 307px;
+  left: 200px;
+  width: 213px;
+  height: 35px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-daftar-text34 {
+  left: 7.925581455230713px;
+  color: rgba(0, 0, 0, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-ellipse2button {
+  top: 8.513518333435059px;
+  left: 0px;
+  width: 10px;
+  height: 9.459458351135254px;
+  display: flex;
+  position: absolute;
+  box-shadow: 1.5px 0.5px 1px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-daftar-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.tampilan-daftar-text36 {
+  top: 26.76848793029785px;
+  left: 265px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.19);
+  font-style: Bold;
+  text-align: center;
+  font-family: "poppins";
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-button {
+  gap: 14px;
+  top: 377px;
+  left: 301px;
+  width: 53px;
+  height: 26.73410415649414px;
+  display: flex;
+  padding: 23px 32px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 3px 2px 4px 0px rgba(0, 0, 0, 0.5) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 999px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tampilan-daftar-text38 {
+  color: rgba(0, 0, 0, 1);
+  width: 58px;
+  height: auto;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-daftar-image2 {
+  top: 729px;
+  left: 936px;
+  width: 198px;
+  height: 56px;
+  position: absolute;
+}
