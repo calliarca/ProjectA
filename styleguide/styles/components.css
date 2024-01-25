@@ -1,0 +1,246 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.components-PSC {
+  width: 100%;
+  height: 88.2rem;
+  overflow: hidden;
+  position: relative;
+}
+.components-PSC .section-XYQ {
+  box-sizing: border-box;
+  padding: 14.4rem 3.2rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.components-PSC .section-XYQ .components-4YL {
+  margin-bottom: 7.9rem;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .buttons-YCc {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 {
+  width: 100%;
+  row-gap: 1.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonarrowsmall-NBe {
+  box-sizing: border-box;
+  padding: 2.4rem 104.8rem 2.4rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonarrowsmall-NBe .styleprimary-statedefault-gTE {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonarrowsmall-NBe .styleprimary-statehovered-A7W {
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonarrowsmall-NBe .stylesecondary-statedefault-h7S {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonarrowsmall-NBe .stylesecondary-statehovered-2fW {
+  width: 6.4rem;
+  height: 6.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttondefault-wGg {
+  box-sizing: border-box;
+  padding: 2.4rem 63.2rem 2.4rem 2.4rem;
+  width: 100%;
+  height: 10.1rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttondefault-wGg .styleprimary-statedefault-pLU {
+  width: 16.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ff3d00;
+  box-sizing: border-box;
+  background-color: #ff3d00;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttondefault-wGg .styleprimary-statehovered-6Yt {
+  width: 16.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #101211;
+  box-sizing: border-box;
+  background-color: #101211;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttondefault-wGg .stylesecondary-statedefault-kdS {
+  width: 16.8rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ff3d00;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttondefault-wGg .stylesecondary-statehovered-BCx {
+  width: 16.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #101211;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ff3d00;
+  box-sizing: border-box;
+  background-color: #ff3d00;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonplaysmall-TgG {
+  box-sizing: border-box;
+  padding: 2.4rem 95.2rem 2.4rem 2.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonplaysmall-TgG .styleprimary-statedefault-N2Y {
+  width: 8.8rem;
+  height: 8.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonplaysmall-TgG .styleprimary-statehovered-dz4 {
+  width: 8.8rem;
+  height: 8.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonplaysmall-TgG .stylesecondary-statedefault-wzk {
+  width: 8.8rem;
+  height: 8.8rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}
+.components-PSC .section-XYQ .frame-1-S36 .buttonplaysmall-TgG .stylesecondary-statehovered-4pU {
+  width: 8.8rem;
+  height: 8.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 9999.9rem;
+  flex-shrink: 0;
+}

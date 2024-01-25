@@ -1,0 +1,977 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.spacing-zMz {
+  width: 100%;
+  height: 176.2rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG {
+  box-sizing: border-box;
+  padding: 14.4rem 3.2rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #101211;
+}
+.spacing-zMz .section-tiG .spacing-En8 {
+  margin-bottom: 7.9rem;
+  font-size: 8.8rem;
+  font-weight: 900;
+  line-height: 0.8999999653;
+  letter-spacing: -0.088rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: PP Formula, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .all-values-9u6 {
+  margin-bottom: 3.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8999999364;
+  letter-spacing: -0.024rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 1.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Qa8 {
+  box-sizing: border-box;
+  padding-right: 124.3rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Qa8 .value-ZC8 {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Qa8 .space-QTe {
+  width: 0.1rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Qa8 .space-QTe .spaceinner-X2U {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-qJ4 {
+  box-sizing: border-box;
+  padding-right: 124.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-qJ4 .value-Bcp {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-qJ4 .space-fXz {
+  box-sizing: border-box;
+  padding-left: 0.2rem;
+  width: 0.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-qJ4 .space-fXz .spaceinner-27e {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-hDn {
+  box-sizing: border-box;
+  padding-right: 123.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-hDn .value-crY {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-hDn .space-fK2 {
+  box-sizing: border-box;
+  padding-left: 0.4rem;
+  width: 0.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-hDn .space-fK2 .spaceinner-pBv {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Y7v {
+  box-sizing: border-box;
+  padding-right: 123.5rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Y7v .value-tha {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Y7v .space-YXE {
+  box-sizing: border-box;
+  padding-left: 0.8rem;
+  width: 0.9rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Y7v .space-YXE .spaceinner-U9z {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-wpG {
+  box-sizing: border-box;
+  padding-right: 123.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-wpG .value-Ht8 {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-wpG .space-Neg {
+  box-sizing: border-box;
+  padding-left: 1.2rem;
+  width: 1.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-wpG .space-Neg .spaceinner-8Nx {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-FTa {
+  box-sizing: border-box;
+  padding-right: 122.7rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-FTa .value-Zz4 {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-FTa .space-E4c {
+  box-sizing: border-box;
+  padding-left: 1.6rem;
+  width: 1.7rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-FTa .space-E4c .spaceinner-kYk {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Gmz {
+  box-sizing: border-box;
+  padding-right: 121.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Gmz .value-Dx8 {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Gmz .space-g52 {
+  box-sizing: border-box;
+  padding-left: 2.4rem;
+  width: 2.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Gmz .space-g52 .spaceinner-qCp {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-LQU {
+  box-sizing: border-box;
+  padding-right: 121.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-LQU .value-H4p {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-LQU .space-wQG {
+  box-sizing: border-box;
+  padding-left: 3.2rem;
+  width: 3.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-LQU .space-wQG .spaceinner-VRn {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-bji {
+  box-sizing: border-box;
+  padding-right: 119.5rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-bji .value-xaG {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-bji .space-1oS {
+  box-sizing: border-box;
+  padding-left: 4.8rem;
+  width: 4.9rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-bji .space-1oS .spaceinner-yEU {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-bWk {
+  box-sizing: border-box;
+  padding-right: 117.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-bWk .value-Ywn {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-bWk .space-3de {
+  box-sizing: border-box;
+  padding-left: 6.4rem;
+  width: 6.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-bWk .space-3de .spaceinner-PxQ {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-vSY {
+  box-sizing: border-box;
+  padding-right: 116.3rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-vSY .value-gRi {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-vSY .space-jun {
+  box-sizing: border-box;
+  padding-left: 8rem;
+  width: 8.1rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-vSY .space-jun .spaceinner-Gui {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-kpt {
+  box-sizing: border-box;
+  padding-right: 114.7rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-kpt .value-uxg {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-kpt .space-yhe {
+  box-sizing: border-box;
+  padding-left: 9.6rem;
+  width: 9.7rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-kpt .space-yhe .spaceinner-Jjv {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-RZe {
+  box-sizing: border-box;
+  padding-right: 113.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-RZe .value-BHv {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-RZe .space-mmv {
+  box-sizing: border-box;
+  padding-left: 11.2rem;
+  width: 11.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-RZe .space-mmv .spaceinner-XFJ {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-T8x {
+  box-sizing: border-box;
+  padding-right: 14.5rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-T8x .value-C6Y {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-T8x .space-2bN {
+  box-sizing: border-box;
+  padding-left: 109.8rem;
+  width: 109.9rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-T8x .space-2bN .spaceinner-xjv {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-tda {
+  box-sizing: border-box;
+  padding-right: 109.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-tda .value-qHv {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-tda .space-h5E {
+  box-sizing: border-box;
+  padding-left: 14.4rem;
+  width: 14.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-tda .space-h5E .spaceinner-eWG {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-x1A {
+  box-sizing: border-box;
+  padding-right: 108.3rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-x1A .value-hzL {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-x1A .space-xfN {
+  box-sizing: border-box;
+  padding-left: 16rem;
+  width: 16.1rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-x1A .space-xfN .spaceinner-6Fn {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-QGU {
+  box-sizing: border-box;
+  padding-right: 105.1rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-QGU .value-xYt {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-QGU .space-ewW {
+  box-sizing: border-box;
+  padding-left: 19.2rem;
+  width: 19.3rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-QGU .space-ewW .spaceinner-Ci8 {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-vu2 {
+  box-sizing: border-box;
+  padding-right: 101.9rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-vu2 .value-gtC {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-vu2 .space-7ic {
+  box-sizing: border-box;
+  padding-left: 22.4rem;
+  width: 22.5rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-vu2 .space-7ic .spaceinner-ZKi {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Egk {
+  box-sizing: border-box;
+  padding-right: 98.7rem;
+  width: 100%;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  border: solid 0.0001rem rgba(255, 255, 255, 0.200000003);
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Egk .value-NY4 {
+  margin-right: 0.8rem;
+  width: 12.4rem;
+  height: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: PP Object Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  box-sizing: border-box;
+  background-color: #101211;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Egk .space-dit {
+  box-sizing: border-box;
+  padding-left: 25.6rem;
+  width: 25.7rem;
+  height: 4.3rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.spacing-zMz .section-tiG .list-t5z .item-Egk .space-dit .spaceinner-b9v {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+}
