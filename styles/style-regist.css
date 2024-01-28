@@ -26,7 +26,7 @@
   font-size: 13px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -52,7 +52,7 @@
   font-size: 20px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -81,7 +81,7 @@
   font-size: 20px;
   font-style: Regular;
   text-align: left;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -96,7 +96,7 @@
   font-size: 20px;
   font-style: Regular;
   text-align: left;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -111,7 +111,7 @@
   font-size: 20px;
   font-style: Regular;
   text-align: left;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -136,7 +136,7 @@
   justify-content: center;
 }
 .tampilan-daftar-group1 {
-  top: 436.32635498046875px;
+  top: 450px;
   left: 18px;
   width: 615px;
   height: 73.53416442871094px;
@@ -168,7 +168,7 @@
   font-size: 16px;
   font-style: Medium;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   line-height: normal;
   font-stretch: normal;
@@ -184,7 +184,7 @@
   font-size: 13px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -226,15 +226,15 @@
   flex-shrink: 1;
 }
 .tampilan-daftar-text16 {
-  left: 23px;
+  left: 16px;
   color: rgba(0, 0, 0, 1);
-  width: 112px;
+  width: 150px;
   height: auto;
   position: absolute;
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins";
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -267,7 +267,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -410,7 +410,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins";
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -440,7 +440,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -583,7 +583,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins";
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -615,7 +615,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -750,7 +750,7 @@
   flex-shrink: 1;
 }
 .tampilan-daftar-text28 {
-  left: 23px;
+  left: 16px;
   color: rgba(0, 0, 0, 1);
   width: 127px;
   height: auto;
@@ -758,7 +758,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins";
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -788,7 +788,7 @@
   font-size: 16px;
   font-style: Regular;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -903,60 +903,61 @@
   position: absolute;
 }
 .tampilan-daftar-group11 {
-  top: 278px;
+  top: 285px;
   left: 267px;
-  width: 121px;
-  height: 17px;
+  height: 17px; /* Keep the height */
+  width: 100px;
   display: flex;
   position: absolute;
   align-items: flex-start;
+  flex-direction: row; /* Display children horizontally */
   flex-shrink: 0;
 }
-.tampilan-daftar-ellipse1 {
-  top: 4px;
-  left: 16.0000057220459px;
+
+.tampilan-daftar-ellipse2 {
+  top: 0px;
+  left: 0px;
   width: 10px;
-  height: 10px;
+  height: 9px;
   position: absolute;
 }
 .tampilan-daftar-text32 {
-  top: -2px;
-  left: 4px;
+  top: -2px; /* Adjust the position */
+  left: 20px; /* Adjust the position */
   color: rgba(0, 0, 0, 1);
-  width: 121px;
+  width: 100%;
   height: auto;
   position: absolute;
   font-size: 13px;
-  font-style: Regular;
-  text-align: center;
-  font-family: Poppins;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
+  text-align: center;
   text-decoration: none;
-  border:none;
-  outline:none;
+  border: none;
+  outline: none;
 }
 .tampilan-daftar-group2017 {
-  top: 307px;
+  top: 315px;
   left: 200px;
   width: 213px;
-  height: 35px;
+  height: 30px;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
 }
 .tampilan-daftar-text34 {
-  left: 7.925581455230713px;
+  left: 7.9255814552307px;
   color: rgba(0, 0, 0, 1);
-  width: 241px;
+  width: 250px;
   height: auto;
   position: absolute;
   font-size: 13px;
   font-style: Regular;
   text-align: center;
-  font-family: Poppins;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
@@ -965,12 +966,11 @@
 }
 .tampilan-daftar-ellipse2button {
   top: 8.513518333435059px;
-  left: 0px;
+  left: 10px;
   width: 10px;
   height: 9.459458351135254px;
   display: flex;
   position: absolute;
-  box-shadow: 1.5px 0.5px 1px 0px rgba(0, 0, 0, 0.25) ;
   align-items: flex-start;
   flex-shrink: 0;
 }
@@ -981,6 +981,7 @@
   height: 9px;
   position: absolute;
 }
+
 .tampilan-daftar-text36 {
   top: 26.76848793029785px;
   left: 265px;
@@ -988,21 +989,22 @@
   width: 128px;
   height: auto;
   position: absolute;
-  font-size: 32px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.19);
-  font-style: Bold;
+  font-size: 40px;
+  font-style: bold; /* 'bold' instead of 'Bold' */
   text-align: center;
-  font-family: "poppins";
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
 }
+
+
 .tampilan-daftar-button {
   gap: 14px;
   top: 377px;
-  left: 301px;
-  width: 53px;
+  left: 280px;
+  width: 100px;
   height: 26.73410415649414px;
   display: flex;
   padding: 23px 32px;
@@ -1018,6 +1020,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
+
 .tampilan-daftar-text38 {
   color: rgba(0, 0, 0, 1);
   width: 58px;
@@ -1025,7 +1028,7 @@
   font-size: 12px;
   font-style: Bold;
   text-align: center;
-  font-family: SF Pro Display;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   line-height: normal;
   font-stretch: normal;
@@ -1037,4 +1040,65 @@
   width: 198px;
   height: 56px;
   position: absolute;
+}
+.notification-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 80%;
+  text-align: left;
+  z-index: 1000;
+  overflow-y: auto; /* Enable vertical scrollbar */
+  max-height: 70vh; /* Limit maximum height and enable vertical scrollbar */
+  display: none;
+}
+.notification-close {
+  cursor: pointer;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.notification-buttons {
+  text-align: right;
+  margin-top: 20px;
+}
+.notification-buttons button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.notification-buttons button:hover {
+  background-color: #0056b3;
+}
+.tampilan-daftar-ellipse2button.agreed {
+  background-color: black;
+  color: white; /* Ganti warna teks menjadi putih untuk kontras */
+}
+.tampilan-daftar-ellipse1button {
+  top: -5px; /* Adjust the position */
+  left: 0; /* Adjust the position */
+  width: 20px; /* Increase the width */
+  height: 20px; /* Increase the height */
+  display: flex;
+  position: absolute;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  cursor: pointer; /* Add cursor pointer */
+  border-radius: 50%; /* Make it circular */
+}
+.tampilan-daftar-ellipse1button:hover {
+  background-color: white; /* Darker color on hover */
 }

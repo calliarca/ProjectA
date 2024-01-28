@@ -65,7 +65,7 @@
     <link rel="stylesheet" type="text/css" href="./styles/styles-regist.css" />
     <div>
       <link href="./styles/style-regist.css" rel="stylesheet" />
-      <form action="regist_handler.php" method="post">
+      <form action="php/regist_handler.php" method="post">
         <div class="tampilan-daftar-tampilan-daftar">
           <span class="tampilan-daftar-text">
             <span>Dapatkan Aplikasi.</span>
@@ -85,7 +85,6 @@
             class="tampilan-daftar-rectangle833"
           />
           <div class="tampilan-daftar-login">
-          <form action="regist_handler.php" method="post">
             <div class="tampilan-daftar-group1">
               <img
                 src="public/external/line19451-dafn.svg"
@@ -98,6 +97,9 @@
                 class="tampilan-daftar-line2"
               />
               <span class="tampilan-daftar-text12"><span>Atau</span></span>
+
+            <!-- ... BUTTON FORGOT PASSWORD ... -->
+
               <span class="tampilan-daftar-text14">
                 <span>Lupa Kata Sandi?</span>
               </span>
@@ -331,16 +333,81 @@
                   </div>
                 </div>
               </div>
+
+              <!-- ... BUTTON REMEMBER ME ... -->
+
               <div class="tampilan-daftar-group11">
+                <button id="ellipse1-button" class="tampilan-daftar-ellipse1button">
                 <img
-                  src="public/external/ellipse1i157-39en-200h.png"
+                  src="public/external/ellipse2i157-xrel-200h.png"
                   alt="Ellipse1I157"
                   class="tampilan-daftar-ellipse1"
                 />
+              </button>
                 <span class="tampilan-daftar-text32">
                   <span>Ingat akun</span>
                 </span>
               </div>
+
+              <script>
+                // Function to set cookie
+                function setCookie(cname, cvalue, exdays) {
+                  var d = new Date();
+                  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+                  var expires = "expires=" + d.toUTCString();
+                  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+                }
+
+                // Function to get cookie
+                function getCookie(cname) {
+                  var name = cname + "=";
+                  var decodedCookie = decodeURIComponent(document.cookie);
+                  var ca = decodedCookie.split(';');
+                  for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') {
+                      c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0) {
+                      return c.substring(name.length, c.length);
+                    }
+                  }
+                  return "";
+                }
+
+                // Function to handle Remember Me button click
+                function rememberMe() {
+                  var email = document.getElementsByName("email")[0].value;
+                  var password = document.getElementsByName("password")[0].value;
+                  if (email.trim() !== "" && password.trim() !== "") {
+                    setCookie("rememberedEmail", email, 30); // Save email in cookie for 30 days
+                    setCookie("rememberedPassword", password, 30); // Save password in cookie for 30 days
+                    alert("Email and password di simpan!");
+                  } else {
+                    alert("Isi bagian email dan password untuk di simpan.");
+                  }
+                }
+
+                // Check if there are remembered credentials on page load
+                window.onload = function() {
+                  var rememberedEmail = getCookie("rememberedEmail");
+                  var rememberedPassword = getCookie("rememberedPassword");
+                  if (rememberedEmail !== "" && rememberedPassword !== "") {
+                    document.getElementsByName("email")[0].value = rememberedEmail;
+                    document.getElementsByName("password")[0].value = rememberedPassword;
+                  }
+                };
+
+                // Add click event listener to the Remember Me button (ellipse1-button)
+                document.getElementById('ellipse1-button').addEventListener('click', function(event) {
+                  event.preventDefault(); // Prevent default form submission
+                  rememberMe(); // Call rememberMe function
+                });
+              </script>
+
+
+            <!-- ... BUTTON KETENTUAN PENGGUNA ... -->
+
               <div class="tampilan-daftar-group2017">
                 <span class="tampilan-daftar-text34">
                   <span>
@@ -356,52 +423,93 @@
               </button>
 
               <div id="notification-container" class="notification-container">
-              <span class="notification-close" onclick="closeNotification()">×</span>
-              <div id="notification-content"></div>
-          </div>
-
-          <script>
-              function showNotification() {
-                  var notificationContainer = document.getElementById('notification-container');
-                  var notificationContent = document.getElementById('notification-content');
-                  var closeButton = document.querySelector('.notification-close');
-
-                  // Clear any previous content
-                  notificationContent.innerHTML = '';
-
-                  // Add terms and conditions content
-                  var termsAndConditions = `
-                      <h3>Syarat & Ketentuan Penggunaan untuk Aplikasi Smart Watch Proyek A (Proyek Alzheimer):</h3>
-                      <p>Selamat datang di Proyek A, sebuah proyek yang dikembangkan oleh tim macipir untuk membantu individu dan keluarga yang terkena penyakit Alzheimer. Sebelum menggunakan aplikasi smart watch kami, harap baca dan pahami dengan seksama syarat dan ketentuan berikut:</p>
-                      <!-- Add other terms and conditions here -->
-                  `;
-                  notificationContent.innerHTML = termsAndConditions;
-
-                  // Display the notification
-                  notificationContainer.style.display = 'block';
-              }
-
-              function closeNotification() {
-                  var notificationContainer = document.getElementById('notification-container');
-                  notificationContainer.style.display = 'none';
-              }
-
-              // Add click event listener to the ellipse 2 button
-              document.getElementById('ellipse2-button').addEventListener('click', function(event) {
-                  event.preventDefault(); // Prevent default form submission
-
-                  // Show the notification
-                  showNotification();
-              });
-          </script>
-
+                <span class="notification-close" onclick="closeNotification()">×</span>
+                <div id="notification-content">
+                </div>
+                <div class="notification-buttons">
+                  <button id="agree-button">I Agree</button>
+                  <button id="disagree-button">I Disagree</button>
+                </div>
+              </div>
+                  <script>
+                    function showNotification() {
+                        var notificationContainer = document.getElementById('notification-container');
+                        var notificationContent = document.getElementById('notification-content');
+                        var closeButton = document.querySelector('.notification-close');
+                
+                        // Clear any previous content
+                        notificationContent.innerHTML = '';
+                
+                        // Add terms and conditions content
+                        var termsAndConditions = `
+                        <h3>Syarat & Ketentuan Penggunaan untuk Aplikasi Smart Watch Proyek A (Proyek Alzheimer):</h3>
+                            <p>Selamat datang di Proyek A, sebuah proyek yang dikembangkan oleh tim macipir untuk membantu individu dan keluarga yang terkena penyakit Alzheimer. Sebelum menggunakan aplikasi smart watch kami, harap baca dan pahami dengan seksama syarat dan ketentuan berikut:</p>
+                            <h3> 1. Penerimaan Syarat: </h3>  <p> Dengan menggunakan aplikasi smart watch Proyek A ("Aplikasi"), Anda menyetujui untuk terikat oleh syarat dan ketentuan ini. Jika Anda tidak setuju dengan bagian apa pun dari syarat ini, Anda tidak diperbolehkan menggunakan Aplikasi.</p>
+                            <h3> 2. Tujuan: </h3> <p> Aplikasi ini dimaksudkan untuk digunakan oleh individu dan keluarga yang menghadapi penyakit Alzheimer. Tujuannya adalah untuk memberikan layanan pelacakan dan informasi untuk membantu memantau dan membantu individu yang terkena kondisi tersebut. </p>
+                            <h3> 3. Penggunaan Pelacakan GPS: </h3> <p> Aplikasi ini menggunakan teknologi pelacakan GPS untuk memantau keberadaan individu yang menggunakan smart watch. Dengan menggunakan fitur ini, Anda mengakui dan menyetujui bahwa Aplikasi akan mengumpulkan dan memproses data lokasi untuk tujuan memastikan keselamatan dan kesejahteraan individu yang mengidap penyakit Alzheimer. </p>
+                            <h3> 4. Integrasi Kode QR: </h3> <p> Aplikasi ini memiliki integrasi kode QR dengan situs web dan aplikasi untuk memfasilitasi proses pencarian individu yang hilang. Dengan memindai kode QR yang ditampilkan pada smart watch, pengguna dapat mengakses informasi dan rincian kontak yang relevan untuk membantu dalam upaya pencarian dan penyelamatan. </p>
+                            <h3> 5. Privasi Data: </h3> <p> Kami berkomitmen untuk melindungi privasi dan data pribadi Anda. Setiap informasi yang dikumpulkan oleh Aplikasi, termasuk namun tidak terbatas pada data lokasi dan rincian pribadi, akan ditangani sesuai dengan Kebijakan Privasi kami.</p>
+                            <h3> 6. Tanggung Jawab Penggunaan: </h3> <p> Aplikasi ini dimaksudkan untuk membantu dalam pelacakan dan memberikan informasi bagi individu yang mengidap penyakit Alzheimer. Ini bukan pengganti nasihat medis profesional atau perawatan. Pengguna bertanggung jawab sepenuhnya atas penggunaan Aplikasi dan harus berhati-hati dan berdisiplin dalam penggunaannya.</p>
+                            <h3> 7. Batasan Tanggung Jawab: </h3> <p> Tim macipir dan afiliasinya tidak akan bertanggung jawab atas kerusakan langsung, tidak langsung, insidental, khusus, atau konsekuensial yang timbul dari atau dalam hubungan dengan penggunaan atau ketidakmampuan menggunakan Aplikasi.</p>
+                            <h3> 8. Modifikasi Syarat: </h3> <p> Tim macipir berhak untuk memodifikasi atau memperbarui syarat dan ketentuan ini kapan saja tanpa pemberitahuan sebelumnya. Kewajiban Anda adalah untuk secara berkala meninjau syarat ini untuk perubahan. </p>
+                            <h3> 9. Pengakhiran: </h3> <p> Tim macipir berhak untuk mengakhiri atau menangguhkan akses ke Aplikasi kapan saja tanpa pemberitahuan sebelumnya atas alasan apa pun, termasuk namun tidak terbatas pada pelanggaran terhadap syarat dan ketentuan ini. </p>
+                            <h3> 10. Hukum yang Berlaku: </h3> <p> Syarat dan ketentuan ini akan tunduk pada dan diatur oleh hukum [masukkan yurisdiksi]. Setiap perselisihan yang timbul dari atau terkait dengan syarat ini akan tunduk pada yurisdiksi eksklusif pengadilan di [masukkan yurisdiksi]. </p>
+                        `;
+                        notificationContent.innerHTML = termsAndConditions;
+                
+                        // Display the notification
+                        notificationContainer.style.display = 'block';
+                    }
+                
+                    // Add click event listener to the ellipse 2 button
+                    document.getElementById('ellipse2-button').addEventListener('click', function(event) {
+                        event.preventDefault(); // Prevent default form submission
+                
+                        // Show the notification
+                        showNotification();
+                    });
+                
+                    function agree() {
+                        // Change the image source to Variant2.svg
+                        document.querySelector('.tampilan-daftar-ellipse2').src = 'public/external/Variant2.svg';
+                        // Close the notification
+                        closeNotification();
+                    }
+                
+                    function disagree() {
+                        // Change the image source to Ellipse2I157.svg
+                        document.querySelector('.tampilan-daftar-ellipse2').src = 'public/external/ellipse2i157-xrel-200h.png';
+                        // Close the notification
+                        closeNotification();
+                    }
+                
+                    function closeNotification() {
+                        var notificationContainer = document.getElementById('notification-container');
+                        notificationContainer.style.display = 'none';
+                    }
+                
+                    // Prevent form submission when clicking "I Agree" button
+                    document.getElementById('agree-button').addEventListener('click', function(event) {
+                        event.preventDefault(); // Prevent default form submission
+                        agree(); // Call agree function
+                    });
+                
+                    // Prevent form submission when clicking "I Disagree" button
+                    document.getElementById('disagree-button').addEventListener('click', function(event) {
+                        event.preventDefault(); // Prevent default form submission
+                        disagree(); // Call disagree function
+                    });
+                </script>                
               </div>
             </div>
+
+
+          <!-- ... bUTTON PENDAFTARAN AKUN ... -->
+
             <span class="tampilan-daftar-text36"><span>Daftar</span></span>
             <button type="submit" value="Register" class="tampilan-daftar-button">
               <span class="tampilan-daftar-text38"><span>Daftar</span></span>
             </button>
-            </form>
           </div>
           <img
             src="public/external/image21325-mws-200h.png"
