@@ -1,94 +1,626 @@
-:root {
-  --dl-color-gray-500: #595959;
-  --dl-color-gray-700: #999999;
-  --dl-color-gray-900: #D9D9D9;
-  --dl-size-size-large: 144px;
-  --dl-size-size-small: 48px;
-  --dl-color-danger-300: #A22020;
-  --dl-color-danger-500: #BF2626;
-  --dl-color-danger-700: #E14747;
-  --dl-color-gray-black: #000000;
-  --dl-color-gray-white: #FFFFFF;
-  --dl-size-size-medium: 96px;
-  --dl-size-size-xlarge: 192px;
-  --dl-size-size-xsmall: 16px;
-  --dl-space-space-unit: 16px;
-  --dl-color-primary-100: #003EB3;
-  --dl-color-primary-300: #0074F0;
-  --dl-color-primary-500: #14A9FF;
-  --dl-color-primary-700: #85DCFF;
-  --dl-color-success-300: #199033;
-  --dl-color-success-500: #32A94C;
-  --dl-color-success-700: #4CC366;
-  --dl-size-size-xxlarge: 288px;
-  --dl-size-size-maxwidth: 1400px;
-  --dl-radius-radius-round: 50%;
-  --dl-space-space-halfunit: 8px;
-  --dl-space-space-sixunits: 96px;
-  --dl-space-space-twounits: 32px;
-  --dl-radius-radius-radius2: 2px;
-  --dl-radius-radius-radius4: 4px;
-  --dl-radius-radius-radius8: 8px;
-  --dl-space-space-fiveunits: 80px;
-  --dl-space-space-fourunits: 64px;
-  --dl-space-space-threeunits: 48px;
-  --dl-space-space-oneandhalfunits: 24px;
-}
-.button {
-  color: var(--dl-color-gray-black);
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  border-color: var(--dl-color-gray-black);
-  border-width: 1px;
-  border-radius: 4px;
-  background-color: var(--dl-color-gray-white);
-}
-.input {
-  color: var(--dl-color-gray-black);
-  cursor: auto;
-  padding: 0.5rem 1rem;
-  border-color: var(--dl-color-gray-black);
-  border-width: 1px;
-  border-radius: 4px;
-  background-color: var(--dl-color-gray-white);
-}
-.textarea {
-  color: var(--dl-color-gray-black);
-  cursor: auto;
-  padding: 0.5rem;
-  border-color: var(--dl-color-gray-black);
-  border-width: 1px;
-  border-radius: 4px;
-  background-color: var(--dl-color-gray-white);
-}
-.list {
+.tampilan-login-container {
   width: 100%;
-  margin: 1em 0px 1em 0px;
-  display: block;
-  padding: 0px 0px 0px 1.5rem;
-  list-style-type: none;
-  list-style-position: outside;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
 }
-.list-item {
-  display: list-item;
+.tampilan-login-tampilan-login {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
 }
-.teleport-show {
-  display: flex !important;
-  transform: none !important;
-}
-.Content {
-  font-size: 16px;
-  font-family: Inter;
+
+.tampilan-login-text {
+  top: 658px;
+  left: 955px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
   font-weight: 400;
-  line-height: 1.15;
-  text-transform: none;
+  line-height: normal;
+  font-stretch: normal;
   text-decoration: none;
 }
-.Heading {
-  font-size: 32px;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 1.15;
-  text-transform: none;
+.tampilan-login-footer {
+  top: 912px;
+  left: 502px;
+  width: 480px;
+  height: 93px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-text02 {
+  top: 55px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 299px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
   text-decoration: none;
+}
+.tampilan-login-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-text06 {
+  left: 139px;
+  color: rgba(0, 0, 0, 1);
+  width: 55px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-text08 {
+  top: 3px;
+  left: 250px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-text10 {
+  left: 380px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-rectangle833 {
+  top: 91px;
+  left: 266px;
+  width: 324px;
+  height: 622px;
+  position: absolute;
+}
+.tampilan-login-login {
+  top: 159px;
+  left: 846px;
+  width: 339px;
+  height: 462px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-group1 {
+  top: 372px;
+  left: 22px;
+  width: 289px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-line1 {
+  top: 12px;
+  left: 0px;
+  width: 92px;
+  height: 1px;
+  position: absolute;
+}
+.tampilan-login-line2 {
+  top: 11.5px;
+  left: 197px;
+  width: 92px;
+  height: 1px;
+  position: absolute;
+}
+.tampilan-login-text12 {
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-text14 {
+  top: 51px;
+  left: 87px;
+  color: rgba(0, 0, 0, 1);
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-frame-login {
+  top: 0px;
+  left: 0px;
+  width: 339px;
+  height: 462px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 4px 3px 5px 0px rgba(58, 24, 193, 1) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+}
+.tampilan-login-login1 {
+  top: 107px;
+  left: 31px;
+  width: 277px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-login-username {
+  top: 3px;
+  left: 34px;
+  width: 243.5px;
+  height: 65.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-text16 {
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-rectangle835 {
+  top: 25.5px;
+  left: 24.500001907348633px;
+  width: 219px;
+  height: 40px;
+  position: absolute;
+}
+.tampilan-login-text18 {
+  top: 19px;
+  left: 20px;
+  width: 195px;
+  height: 16px;
+  position: absolute;
+  outline: none;
+  
+}
+.tampilan-login-user03c {
+  top: 24px;
+  left: 0px;
+  width: 45px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(0deg, rgba(255, 201, 179, 1) 0%, rgba(255, 210, 194, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 100px;
+}
+.tampilan-login-user03c1 {
+  top: 5.116974353790283px;
+  left: 4.957797050476074px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-group7 {
+  top: 0px;
+  left: 0px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-combined-shape {
+  top: 0px;
+  left: 0.9239952564239502px;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+}
+.tampilan-login-path4 {
+  top: 1.4036145210266113px;
+  left: 10.729035377502441px;
+  width: 5px;
+  height: 12px;
+  position: absolute;
+}
+.tampilan-login-group6 {
+  top: 7.523029804229736px;
+  left: 11.011275291442871px;
+  width: 15.119829177856445px;
+  height: 25.462188720703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-mask {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 25px;
+  position: absolute;
+}
+.tampilan-login-group61 {
+  top: 13.42335033416748px;
+  left: 4.962636947631836px;
+  width: 5.438743591308594px;
+  height: 4.015226364135742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-path2 {
+  top: 0px;
+  left: 0.12536318600177765px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.tampilan-login-combined-shape1 {
+  top: 27.523025512695312px;
+  left: 2.0922017097473145px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-combined-shape2 {
+  top: 0px;
+  left: 0px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-mask1 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 16px;
+  position: absolute;
+}
+.tampilan-login-kata-sandi {
+  top: 195px;
+  left: 31px;
+  width: 277px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-login-username1 {
+  top: 3px;
+  left: 34px;
+  width: 243.5px;
+  height: 65.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-text20 {
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 87px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-rectangle8351 {
+  top: 25.5px;
+  left: 24.500001907348633px;
+  width: 219px;
+  height: 40px;
+  position: absolute;
+}
+.tampilan-login-text22 {
+  top: 19px;
+  left: 20px;
+  width: 195px;
+  height: 16px;
+  position: absolute;
+  outline: none;
+}
+.tampilan-login-user03c2 {
+  top: 24px;
+  left: 0px;
+  width: 45px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  background: linear-gradient(0deg, rgba(255, 201, 179, 1) 0%, rgba(255, 210, 194, 1) 100%);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 100px;
+}
+.tampilan-login-user03c3 {
+  top: 5.116974353790283px;
+  left: 4.957797050476074px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-group71 {
+  top: 0px;
+  left: 0px;
+  width: 32.9921989440918px;
+  height: 43.523033142089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-combined-shape3 {
+  top: 0px;
+  left: 0.9239952564239502px;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+}
+.tampilan-login-path41 {
+  top: 1.4036145210266113px;
+  left: 10.729035377502441px;
+  width: 5px;
+  height: 12px;
+  position: absolute;
+}
+.tampilan-login-group62 {
+  top: 7.523029804229736px;
+  left: 11.011275291442871px;
+  width: 15.119829177856445px;
+  height: 25.462188720703125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-mask2 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 25px;
+  position: absolute;
+}
+.tampilan-login-group63 {
+  top: 13.42335033416748px;
+  left: 4.962636947631836px;
+  width: 5.438743591308594px;
+  height: 4.015226364135742px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-path21 {
+  top: 0px;
+  left: 0.12536318600177765px;
+  width: 5px;
+  height: 4px;
+  position: absolute;
+}
+.tampilan-login-combined-shape4 {
+  top: 27.523025512695312px;
+  left: 2.0922017097473145px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-combined-shape5 {
+  top: 0px;
+  left: 0px;
+  width: 30.89999771118164px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tampilan-login-mask3 {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 16px;
+  position: absolute;
+}
+.tampilan-login-group11 {
+  top: 275px;
+  left: 90px;
+  width: 121px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-login-ellipse1 {
+  top: 4px;
+  left: 16.0000057220459px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  cursor: pointer; /* Add this line to change cursor to pointer on hover */
+}
+.tampilan-login-ellipse1button {
+  top: 5px;
+  left: 20px;
+  width: 15px;
+  height: 10px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tampilan-login-text24 {
+  top: 1px;
+  left: 4px;
+  width: 121px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  outline: none;
+  border: none;
+}
+.tampilan-login-text26 {
+  top: 185px;
+  left: 937px;
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 44px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-button {
+  gap: 14px;
+  top: 470px;
+  left: 965px;
+  width: 100px;
+  height: 32px;
+  display: flex;
+  padding: 23px 32px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 3px 2px 4px 0px rgba(0, 0, 0, 0.5) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 999px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.tampilan-login-text28 {
+  color: rgba(0, 0, 0, 1);
+  width: 81px;
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tampilan-login-image2 {
+  top: 712px;
+  left: 922px;
+  width: 198px;
+  height: 56px;
+  position: absolute;
 }

@@ -102,11 +102,11 @@
     />
   </head>
   <body>
-    <link rel="stylesheet" href="./styles/style-login.css" />
+    <link rel="stylesheet" href="./styles/styles-login.css" />
     <div>
-      <link href="./styles/login.css" rel="stylesheet" />
+      <link href="./styles/style-login.css" rel="stylesheet" />
 
-      <div class="tampilan-login-container">
+      <div class="econtainer">
         <div class="tampilan-login-tampilan-login">
           <span class="tampilan-login-text">
             <span>Dapatkan Aplikasi.</span>
@@ -262,16 +262,75 @@
                   </div>
                 </div>
               </div>
-              <div class="tampilan-login-group11">
-                <img
-                  src="public/external/ellipse1i132-xx4m-200h.png"
-                  alt="Ellipse1I132"
-                  class="tampilan-login-ellipse1"
-                />
-                <span class="tampilan-login-text24">
-                  <span>Ingat akun</span>
-                </span>
-              </div>
+
+                <!-- ... BUTTON REMEMBER ME ... -->
+                <div class="tampilan-login-group11">
+                  <button id="ellipse1-button" class="tampilan-login-ellipse1button">
+                  <img
+                    id="ellipse1-button"
+                    src="public/external/ellipse2i157-xrel-200h.png"
+                    alt="Ellipse1I132"
+                    class="tampilan-login-ellipse1"
+                  />
+                  <span class="tampilan-login-text24">
+                    <span>Ingat akun</span>
+                  </span>
+                  <script>
+                    // Function to set cookie
+                    function setCookie(cname, cvalue, exdays) {
+                      var d = new Date();
+                      d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+                      var expires = "expires=" + d.toUTCString();
+                      document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+                    }
+
+                    // Function to get cookie
+                    function getCookie(cname) {
+                      var name = cname + "=";
+                      var decodedCookie = decodeURIComponent(document.cookie);
+                      var ca = decodedCookie.split(';');
+                      for (var i = 0; i < ca.length; i++) {
+                        var c = ca[i];
+                        while (c.charAt(0) == ' ') {
+                          c = c.substring(1);
+                        }
+                        if (c.indexOf(name) == 0) {
+                          return c.substring(name.length, c.length);
+                        }
+                      }
+                      return "";
+                    }
+
+                    // Function to handle Remember Me button click
+                    function rememberMe() {
+                      var email = document.getElementsByName("email")[0].value;
+                      var password = document.getElementsByName("password")[0].value;
+                      if (email.trim() !== "" && password.trim() !== "") {
+                        setCookie("rememberedEmail", email, 30); // Save email in cookie for 30 days
+                        setCookie("rememberedPassword", password, 30); // Save password in cookie for 30 days
+                        alert("Email and password di simpan!");
+                      } else {
+                        alert("Isi bagian email dan password untuk di simpan.");
+                      }
+                    }
+
+                    // Check if there are remembered credentials on page load
+                    window.onload = function() {
+                      var rememberedEmail = getCookie("rememberedEmail");
+                      var rememberedPassword = getCookie("rememberedPassword");
+                      if (rememberedEmail !== "" && rememberedPassword !== "") {
+                        document.getElementsByName("email")[0].value = rememberedEmail;
+                        document.getElementsByName("password")[0].value = rememberedPassword;
+                      }
+                    };
+
+                    // Add click event listener to the Remember Me button (ellipse1-button)
+                    document.getElementById('ellipse1-button').addEventListener('click', function(event) {
+                      event.preventDefault(); // Prevent default form submission
+                      rememberMe(); // Call rememberMe function
+                    });
+                  </script>
+                </div>
             </div>
           </div>
           <span class="tampilan-login-text26"><span>Masuk</span></span>
