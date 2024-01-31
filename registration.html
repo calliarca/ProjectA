@@ -357,6 +357,16 @@
                   var expires = "expires=" + d.toUTCString();
                   document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
                 }
+                      // Function to check if the cookie exists
+                  function checkCookie() {
+                    var rememberedEmail = getCookie("rememberedEmail");
+                    var rememberedPassword = getCookie("rememberedPassword");
+                    if (rememberedEmail !== "" && rememberedPassword !== "") {
+                      // Change the image source to Variant2.svg if the cookie exists
+                      document.getElementById("ellipse1-button").querySelector("img").src =
+                        "public/external/Variant2.svg";
+                    }
+                  }
 
                 // Function to get cookie
                 function getCookie(cname) {
@@ -394,8 +404,9 @@
                   var rememberedPassword = getCookie("rememberedPassword");
                   if (rememberedEmail !== "" && rememberedPassword !== "") {
                     document.getElementsByName("email")[0].value = rememberedEmail;
-                    document.getElementsByName("password")[0].value = rememberedPassword;
+                    document.getElementsByName("password")[0].value = rememberedPassword
                   }
+                  checkCookie();
                 };
 
                 // Add click event listener to the Remember Me button (ellipse1-button)
